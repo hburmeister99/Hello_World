@@ -15,7 +15,7 @@ Hello World Sample.
 <h1>Description</h1>
 Practice using Github by creating a sample repository
 
-<h1>How to Run Program/h1>
+<h1>How to Run Program</h1>
 Explain here how you would run the program and what viles need to be available.
   
 <h1>Files Used</h1>
