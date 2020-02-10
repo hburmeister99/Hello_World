@@ -3,7 +3,7 @@
 <h1>Table of Contents</h1>
 <ul>
   -Project Title
-  -Description
+  <li> -Description</li>
   -How to Run Program
   -Files Used
   -Additional Documentation
