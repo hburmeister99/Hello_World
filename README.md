@@ -1,7 +1,7 @@
 # Hello_World
 
-<h1>Table of Contents</h1>
-<ul>
+  <h1>Table of Contents</h1>
+  <ul>
   <li>Project Title</li>
   <li>Description</li>
   <li>How to Run Program</li>
@@ -19,6 +19,7 @@ Practice using Github by creating a sample repository
 Explain here how you would run the program and what viles need to be available.
   
 <h1>Files Used</h1>
+<ul>
   <li>Did ou use any datafiles?</li>
   <li>List filenames</li>
   <li>Where you got them</li>
